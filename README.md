@@ -1,5 +1,5 @@
 # BeetRoot
-Project for my Computer Networks class.
+Project for Computer Networks class (husseinmz and Tsugiru collab).
 Developed a game distribution platform that simulates the basic services of Steam along with a fighting multiplayer game and a tic tac toe game. 
 The application was developed using the following technologies:'
   - Java socket APIs
